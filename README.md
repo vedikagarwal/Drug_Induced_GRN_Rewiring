@@ -8,7 +8,7 @@ Method 1 (signature based) can be accessed using `Signature_based_drug_reversal.
 
 Method 2 (pathway based) can be accessed using `method2_pathway_pooling.ipynb`
 
-Method 3 (gcn based) can be accessed using ``.
+Method 3 (gcn based) can be accessed using `method3.py`.
 
 
 
